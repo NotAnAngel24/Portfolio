@@ -1,0 +1,13 @@
+Hi,
+It's NotAnAngel24
+This is a source and complete file of my code. I have made a checklist in regards of making this website using github as a hosting website.
+1. Initialize repositor - done
+2. Add basic HTML files - done
+3. Create or initialize HTML - done
+4. Add and create basic CSS or initialize - 
+5. Apply and add css rules to HTML contents or code -
+6. Fix the problem syntax issues in HTML by examining the files through problems terminal.-
+7. Finish Bio about section -
+8. add javascript event listeners -
+9. Adjust styling for new HTML layout -
+10. finish website
