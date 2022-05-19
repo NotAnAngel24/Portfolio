@@ -1,6 +1,7 @@
 Hi,
 It's NotAnAngel24
 This is a source and complete file of my code. I have made a checklist in regards of making this website using github as a hosting website.
+PLEASE SEE THE MAIN WEBSITE LINKS AND MY PROJECTS DOWN BELOW
 1. Initialize repositor - done
 2. Add basic HTML files - done
 3. Create or initialize HTML - done
