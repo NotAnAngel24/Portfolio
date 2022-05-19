@@ -12,6 +12,6 @@ PLEASE SEE THE MAIN WEBSITE LINK AND MY PROJECT DOWN BELOW
 7. Finish Bio about section - done 
 8. Add javascript event listeners -
 9. Adjust styling for new HTML layout - done
-10. Finish website -
+10. Finish website - semi done
 
 <a target="__blank" href="https://github.com/NotAnAngel24/NotAnAngel24.github.io"> Link to portfolio via Github</a>.
