@@ -12,4 +12,4 @@ This is a source and complete file of my code. I have made a checklist in regard
 9. Adjust styling for new HTML layout -
 10. Finish website
 
-<a href="https://github.com/NotAnAngel24/NotAnAngel24.github.io" target="_blank"> Link to portfolio via Github. Resources</a>.
+<a href="https://github.com/NotAnAngel24/NotAnAngel24.github.io" target="_blank"> Link to portfolio via Github</a>.
