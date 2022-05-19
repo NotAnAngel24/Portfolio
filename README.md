@@ -11,3 +11,5 @@ This is a source and complete file of my code. I have made a checklist in regard
 8. Add javascript event listeners -
 9. Adjust styling for new HTML layout -
 10. Finish website
+
+<a target="_blank" href="https://www.youtube.com/watch?v=Onv9nhPIBp0&t=1m2s">Link to YouTube</a>.
