@@ -4,12 +4,12 @@ This is a source and complete file of my code. I have made a checklist in regard
 1. Initialize repositor - done
 2. Add basic HTML files - done
 3. Create or initialize HTML - done
-4. Add and create basic CSS or initialize - 
-5. Apply and add css rules to HTML contents or code -
+4. Add and create basic CSS or initialize - done
+5. Apply and add css rules to HTML contents or code - done
 6. Fix the problem syntax issues in HTML by examining the files through problems terminal.-
 7. Finish Bio about section -
 8. Add javascript event listeners -
 9. Adjust styling for new HTML layout -
 10. Finish website
 
-<a target="_blank" href="https://www.youtube.com/watch?v=Onv9nhPIBp0&t=1m2s">Link to YouTube</a>.
+<a href="https://github.com/NotAnAngel24/NotAnAngel24.github.io" target="_blank"> Link to portfolio via Github. Resources</a>.
