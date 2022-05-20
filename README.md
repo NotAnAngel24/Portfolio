@@ -3,7 +3,7 @@ It's NotAnAngel24
 I have made this repository so it's cleaner and easier for everyone including me to locate and navigate my portfolio and neater sources
 I have made a checklist in regards of making this website using github as a hosting website.
 PLEASE SEE THE MAIN WEBSITE LINK AND MY PROJECT DOWN BELOW
-1. Initialize repositor - done
+1. Initialize repository - done
 2. Add basic HTML files - done
 3. Create or initialize HTML - done
 4. Add and create basic CSS or initialize - done
