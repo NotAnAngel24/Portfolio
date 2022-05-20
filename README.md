@@ -1,6 +1,6 @@
 Hi,
 It's NotAnAngel24
-I have made this repository so it's cleaner and easier for everyone including me to locate and navigate my portfolio and neater sources
+I have made this repository so it's cleaner and easier for everyone including me to locate and navigate my portfolio and neater to view the resources.
 I have made a checklist in regards of making this website using github as a hosting website.
 PLEASE SEE THE MAIN WEBSITE LINK AND MY PROJECT DOWN BELOW
 1. Initialize repository - done
@@ -15,3 +15,4 @@ PLEASE SEE THE MAIN WEBSITE LINK AND MY PROJECT DOWN BELOW
 10. Finish website - semi done
 
 <a target="__blank" href="https://github.com/NotAnAngel24/NotAnAngel24.github.io"> Link to portfolio via Github</a>.
+<a target="__blank" href="https://notanangel24.github.io/Portfolio/"> Link to portfolio webpage</a>.
