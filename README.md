@@ -10,7 +10,7 @@ PLEASE SEE THE MAIN WEBSITE LINK AND MY PROJECT DOWN BELOW
 5. Apply and add css rules to HTML contents or code - done
 6. Fix the problem syntax issues in HTML by examining the files through problems terminal.- done by using problems terminal in VSC
 7. Finish Bio about section - done 
-8. Add javascript event listeners -
+8. Add javascript event listeners - done
 9. Adjust styling for new HTML layout - done
 10. Finish website - semi done
 
