@@ -12,7 +12,7 @@ PLEASE SEE THE MAIN WEBSITE LINK AND MY PROJECT DOWN BELOW
 7. Finish Bio about section - done 
 8. Add javascript event listeners - done
 9. Adjust styling for new HTML layout - done
-10. Finish website - done
+10. Finish website - semi done
 
 <a target="__blank" href="https://github.com/NotAnAngel24/NotAnAngel24.github.io"> Link to portfolio via Github</a>.
 <a target="__blank" href="https://notanangel24.github.io/Portfolio/"> Link to portfolio webpage</a>.
