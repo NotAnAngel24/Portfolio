@@ -16,3 +16,5 @@ PLEASE SEE THE MAIN WEBSITE LINK AND MY PROJECT DOWN BELOW
 
 <a target="__blank" href="https://github.com/NotAnAngel24/NotAnAngel24.github.io"> Link to portfolio via Github</a>.
 <a target="__blank" href="https://notanangel24.github.io/Portfolio/"> Link to portfolio webpage</a>.
+<a target="__blank" href="https://notanangel24.github.io/Resume/"> Link to resume </a>.
+
